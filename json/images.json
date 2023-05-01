@@ -1,14 +1,14 @@
 {
     "Images":
     [
-        {"URL":"img/01.png", "Caption":"Image 1"},
-        {"URL":"img/02.png", "Caption":"Image 2"},
-        {"URL":"img/03.png", "Caption":"Image 3"},
-        {"URL":"img/04.png", "Caption":"Image 4"},
-        {"URL":"img/05.png", "Caption":"Image 5"},
-        {"URL":"img/06.png", "Caption":"Image 6"},
-        {"URL":"img/07.png", "Caption":"Image 7"},
-        {"URL":"img/08.png", "Caption":"Image 8"},
-        {"URL":"img/09.png", "Caption":"Image 9"} 
+        {"URL":"img/01.png", "Caption":"Messenger"},
+        {"URL":"img/02.png", "Caption":"Chrome"},
+        {"URL":"img/03.png", "Caption":"Pinterest"},
+        {"URL":"img/04.png", "Caption":"Telegram"},
+        {"URL":"img/05.png", "Caption":"Facebook"},
+        {"URL":"img/06.png", "Caption":"TikTok"},
+        {"URL":"img/07.png", "Caption":"Instagram"},
+        {"URL":"img/08.png", "Caption":"Zoom"},
+        {"URL":"img/09.png", "Caption":"Spotify"} 
     ]
 }
